@@ -1,3 +1,9 @@
+# Data files
+*.json
+
+# Credentials
+*.pickle
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
